@@ -1,0 +1,51 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Test Results
+TestResults/
+
+# Logs
+*.log
+
+# Publish
+publish/
+
+# NuGet
+packages/
+
+# SQL LocalDB
+*.mdf
+*.ldf
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Environment
+.env
+.env.*
+
+# Generated files
+Generated/
+
+# Coverage
+coverage/
+
+# ReSharper
+_ReSharper*/
+
+# Temporary
+*.tmp
