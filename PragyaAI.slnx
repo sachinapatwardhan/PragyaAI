@@ -1,2 +1,6 @@
 <Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Core/">
+    <Project Path="src/Core/PragyaAI.SharedKernel/PragyaAI.SharedKernel.csproj" />
+  </Folder>
 </Solution>
