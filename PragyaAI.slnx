@@ -1,6 +1,12 @@
 <Solution>
   <Folder Name="/src/" />
   <Folder Name="/src/Core/">
+    <Project Path="src/Core/PragyaAI.Application/PragyaAI.Application.csproj" />
+    <Project Path="src/Core/PragyaAI.Domain/PragyaAI.Domain.csproj" />
+    <Project Path="src/Core/PragyaAI.Persistence/PragyaAI.Persistence.csproj" />
     <Project Path="src/Core/PragyaAI.SharedKernel/PragyaAI.SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/src/Presentation/">
+    <Project Path="src/Presentation/PragyaAI.Web/PragyaAI.Web.csproj" />
   </Folder>
 </Solution>
